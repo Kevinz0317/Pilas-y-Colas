@@ -6,8 +6,8 @@ Integrantes:
 - Kevin Esteban Chiquillo Diaz
 
 *Pilas:* 
-Gestor de Llamadas.
+- Gestor de Llamadas.
 *Colas:* 
-Administrador de turnos.
+- Administrador de turnos.
 
 ##### Universidad de Cundinamarca - Extensión Facatativá - Estructuras de Informaciónn 401
