@@ -5,9 +5,9 @@ Integrantes:
 - Gabriel Esteban Martinez Roldan
 - Kevin Esteban Chiquillo Diaz
 
-*Pilas:* 
+**Pilas:**
 - Gestor de Llamadas.
-*Colas:* 
+**Colas:**
 - Administrador de turnos.
 
 ##### Universidad de Cundinamarca - Extensión Facatativá - Estructuras de Informaciónn 401
